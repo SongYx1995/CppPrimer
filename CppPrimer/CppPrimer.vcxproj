@@ -23,7 +23,11 @@
     <ProjectGuid>{D9AB3B80-96A5-4C85-A318-D4EBC7076959}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>CppPrimer</RootNamespace>
+<<<<<<< HEAD
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+=======
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+>>>>>>> c488b3ecf8c492feded29dc2d249d3c3bf68d9c7
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -147,7 +151,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="playground.cpp" />
+=======
+    <ClCompile Include="CppPrimer.cpp" />
+>>>>>>> c488b3ecf8c492feded29dc2d249d3c3bf68d9c7
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

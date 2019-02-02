@@ -15,7 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="playground.cpp">
+=======
+    <ClCompile Include="CppPrimer.cpp">
+>>>>>>> c488b3ecf8c492feded29dc2d249d3c3bf68d9c7
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
